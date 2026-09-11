@@ -1,3 +1,6 @@
+> [!NOTE]
+> Some CMIP modelling teams are providing access to sample high frequency 3D data to drive CORDEX RCMs. See [here](./CMIP7-early-data-access.md) the terms of use and access info. 
+
 # CMIP7 for CORDEX
 
 This repository is intended to collect information on CMIP7 output available for CORDEX.
