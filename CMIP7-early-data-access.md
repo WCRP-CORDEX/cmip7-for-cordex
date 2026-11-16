@@ -12,4 +12,5 @@ Access credentials are personal or institution-specific and must not be shared w
 
 | source_id | contact |
 |-----------|---------|
-| EC-Earth3-ESM-1-1 /esm-hist /esm-scen7-h | [M. Sahlin](https://www.smhi.se/en/research/our-team/search-for-employees/michael-sahlin)|
+| EC-Earth3-ESM-1-1 /esm-hist /esm-scen7- | [M. Sahlin](https://www.smhi.se/en/research/our-team/search-for-employees/michael-sahlin)|
+| CNRM-ESM2-1e /esm-hist | [IPSL Thredds server](https://thredds-su.ipsl.fr/thredds/catalog/CNRM-WCRP-Data/MIP-DRS7/CMIP7/CMIP/CNRM-CERFACS/CNRM-ESM2-1e/catalog.html)|
