@@ -8,15 +8,17 @@ Access to the CMIP7 GCM lateral boundary condition data is provided to CORDEX mo
 
 Access credentials are personal or institution-specific and must not be shared with third parties. Users are expected to use the data and access only for the stated scientific purpose and to respect any applicable data-use conditions of the providing modelling group.
 
-## Available in ESGF
-
-| source_id | ESGF link |
-|-----------|---------|
-| CanESM5-1 r1-5i1p2f1 /esm-hist /esm-scen7-h /esm-scen7-vl /esm-scen7-m | [metagrid](https://metagrid-ceda.east.esgf.io/search?project=CMIP7&activeFacets=%7B%22vertical_label%22%3A%22al%22%2C%22frequency%22%3A%226hr%22%7D)|
-
 ## Requesting access
 
 | source_id | contact |
 |-----------|---------|
-| EC-Earth3-ESM-1-1 /esm-hist /esm-scen7- | [M. Sahlin](https://www.smhi.se/en/research/our-team/search-for-employees/michael-sahlin)|
-| CNRM-ESM2-1e /esm-hist | [IPSL Thredds server](https://thredds-su.ipsl.fr/thredds/catalog/CNRM-WCRP-Data/MIP-DRS7/CMIP7/CMIP/CNRM-CERFACS/CNRM-ESM2-1e/catalog.html)|
+| **EC-Earth3-ESM-1-1** /esm-hist /esm-scen7- | [M. Sahlin](https://www.smhi.se/en/research/our-team/search-for-employees/michael-sahlin)|
+
+## Open availability
+
+Some data are already openly available via ESGF or other open servers:
+
+| source_id | link |
+|-----------|---------|
+| **CanESM5-1** r1-5i1p2f1 /esm-hist /esm-scen7-h /esm-scen7-vl /esm-scen7-m | [ESGF](https://metagrid-ceda.east.esgf.io/search?project=CMIP7&activeFacets=%7B%22vertical_label%22%3A%22al%22%2C%22frequency%22%3A%226hr%22%7D)|
+| **CNRM-ESM2-1e** /esm-hist | [IPSL Thredds server](https://thredds-su.ipsl.fr/thredds/catalog/CNRM-WCRP-Data/MIP-DRS7/CMIP7/CMIP/CNRM-CERFACS/CNRM-ESM2-1e/catalog.html)|
