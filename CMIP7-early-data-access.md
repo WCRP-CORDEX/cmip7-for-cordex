@@ -8,12 +8,11 @@ Access to the CMIP7 GCM lateral boundary condition data is provided to CORDEX mo
 
 Access credentials are personal or institution-specific and must not be shared with third parties. Users are expected to use the data and access only for the stated scientific purpose and to respect any applicable data-use conditions of the providing modelling group.
 
-## Requesting access
+## Requesting access for accessing model level boundary conditions
 
-| source_id | contact |
-|-----------|---------|
-| **EC-Earth3-ESM-1-1** /esm-hist /esm-scen7- | [M. Sahlin](https://www.smhi.se/en/research/our-team/search-for-employees/michael-sahlin)|
-
+| source_id | contact | comments |
+|-----------|---------|---------|
+| **EC-Earth3-ESM-1-1** **r1i1p1f1** /esm-hist /esm-scen7-h | [M. Sahlin](https://www.smhi.se/en/research/our-team/search-for-employees/michael-sahlin)| Pressure level (plev19) data for emulators in [ESGF](https://urldefense.com/v3/__https://metagrid-ceda.east.esgf.io/search?project=CMIP7&activeFacets=*7B*22source_id*22*3A*22EC-Earth3-ESM-1-1*22*2C*22variant_label*22*3A*22r1i1p1f1*22*7D__;JSUlJSUlJSUlJSUlJQ!!D9dNQwwGXtA!VssjOBzfgAupqPZVP6lUVdz9UK_r6S5aOtc02zuJcXXA0eEfzh_mfOTYYgWjBgQl805yED4WFln7S73DLqTgAQ$) |
 ## Open availability
 
 Some data are already openly available via ESGF or other open servers:
