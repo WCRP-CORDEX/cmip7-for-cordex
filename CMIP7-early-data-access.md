@@ -12,7 +12,7 @@ Access credentials are personal or institution-specific and must not be shared w
 
 | source_id | contact |
 |-----------|---------|
-| **EC-Earth3-ESM-1-1** /esm-hist /esm-scen7- | [M. Sahlin](https://www.smhi.se/en/research/our-team/search-for-employees/michael-sahlin)|
+| **EC-Earth3-ESM-1-1** /esm-hist /esm-scen7-h /esm-scen7-hl | [M. Sahlin](https://www.smhi.se/en/research/our-team/search-for-employees/michael-sahlin)|
 
 ## Open availability
 
