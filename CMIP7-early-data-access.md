@@ -21,4 +21,5 @@ Some data are already openly available via ESGF or other open servers:
 | source_id | link |
 |-----------|---------|
 | **CanESM5-1** r1-5i1p2f1 /esm-hist /esm-scen7-h /esm-scen7-vl /esm-scen7-m | [ESGF](https://metagrid-ceda.east.esgf.io/search?project=CMIP7&activeFacets=%7B%22vertical_label%22%3A%22al%22%2C%22frequency%22%3A%226hr%22%7D)|
-| **CNRM-ESM2-1e** /esm-hist | [IPSL Thredds server](https://thredds-su.ipsl.fr/thredds/catalog/CNRM-WCRP-Data/MIP-DRS7/CMIP7/CMIP/CNRM-CERFACS/CNRM-ESM2-1e/catalog.html)|
+| **CNRM-ESM2-1e** /esm-hist | 
+[IPSL Thredds server](https://thredds-su.ipsl.fr/thredds/catalog/CNRM-WCRP-Data/data_climathon/MIP-DRS7/CMIP7/CMIP/CNRM-CERFACS/CNRM-ESM2-1e/esm-hist/r1i1p1f1/glb/catalog.html)|
